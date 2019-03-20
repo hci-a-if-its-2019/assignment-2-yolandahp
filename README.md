@@ -15,39 +15,59 @@ If you choose to take a picture of your sketches, please make sure the texts are
 ![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
 
 ### 2. Version Differences
-```
-Please write a paragraph talking about the differences between the versions
-```
+
+**Problem**
+- Hard to find search box
+- Hard to find button for liking or voting a content
+- The "Share" button is confusing, the button is not to share post to homepage/timeline
+- Muted tones and cluttered, monotone text. The navigation is very difficult to understand
+
+
+**Solution v1:**
+- Move the search bar and "create a new post" to the top header
+- Re-arrange Navbar, so Home, Popular, All Post, Users menu below nav Header and sorting based on Hot, New below the navbar.
+- Rate button more noticeable
+- Add icon to represent the function of the button
+- Add dropdown menu for share button, so the users can choose where to share the post. There's 3 menu, copy link, embed, and post on timeline. Rename "crosspost" to "post on timeline" to share the post on the user's timeline.
+
+**Solution v2:**
+- Move the search bar button to the top header
+- Move "create new post" button to the right section of page
+- Home, Popular, All Post, Users menu on the left side of search bar. So there's one Navbar.
+- Rate button more noticeable
+- Add icon to represent the function of the button
+- Add dropdown menu for share button, so the users can choose where to share the post. There's only 2 menu, share in other media (this include copy link and embed menu), and Post on timeline. Rename "crosspost" to "post on timeline" to share the post on the user's timeline.
+
+**Solution v3:**
+- Move the search bar button to the top header
+- Move "create new post" button to the right section of page
+- Home, Popular, All Post, Users menu on the left side of search bar. So there's one Navbar.
+- Message menu is on the user dropdown menu
+- Add pagination for posts, so no more infinite scrolling.
+- Change icon for rate, from up and down icon to love icon.
+- Add icon to represent the function of the button
+- Add dropdown menu for share button, so the users can choose where to share the post. There's only 2 menu, share in other media (this include copy link and embed menu), and Post on timeline. Rename "crosspost" to "post on timeline" to share the post on the user's timeline.
+
 
 ### 3. Selected Sketch
-```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
-```
+I choose the **Solution v2**. Because it's simplycity and there's only one main navbar. I will not choose solution v3 because it's love button. Even the new users, who had no experience with Reddit before, might still think what's the function of up and down button, I think this up and down button is the characteristics of Reddit.
 
 ### 4. Design Rationale
-```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
-```
+These sketches are made by designer based on what users think or what users felt when using this website. By using these methods, we will know what's wrong with the interfaces and we should fix that problem. As much as possible we should make a new design that's better without removing the characteristics of the website.
 
 ## Part B: Assumptions
 ### 1. Hardware
-```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
-```
+1. Screen size: 15.6 inch
+2. Screen resolution: 1366 x 768 or higher with screen ratio 16:9
+3. PC with minimum requirement:
+   - Intel Dual-Core
+   - Intel HD Graphic
+   - 2GB RAM
+4. Physical input: Mouse or touch screen and Keyboard
+
 ### 2. Users
-```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
-```
+- Familiar with desktop computer and web browser.
+- User age range from 12-50 years old.
 
 ## Part C: Prototypes
 We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
