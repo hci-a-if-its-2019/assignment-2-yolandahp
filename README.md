@@ -7,12 +7,18 @@ Sketch at least **3 (three)** different UIs for the functions you are targeting.
 You need **not** sketch the whole interface. It is not necessary for the sketches to have every function or every function in detail, but there should be enough to show off your general idea. **Be creative!** Draw your idea and label a few of the widgets so we can tell your intent. The goal is to have at least 3 good UIs in *interesting* ways. Sketches should be done on paper with pens and/or pencils (do not use a computer).
 
 ### 1. Scan/Photo of Sketches
-```
-Be sure to label the different versions so you can differentiate them in your discussion. 
-If you choose to take a picture of your sketches, please make sure the texts are readable.
-```
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+**Sketch1**
+
+![Scan/Photo of Sketches](img/sketch1.jpg)
+
+**Sketch2**
+
+![Scan/Photo of Sketches](img/sketch2.jpg)
+
+**Sketch3**
+
+![Scan/Photo of Sketches](img/sketch3.jpg)
 
 ### 2. Version Differences
 
