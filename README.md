@@ -76,4 +76,9 @@ These sketches are made by designer based on what users think or what users felt
 - User age range from 12-50 years old.
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+**Freehand**
+![Scan/Photo of Sketches](img/freehand.jpg)
+https://projects.invisionapp.com/freehand/document/JXemUtHkD
+
+**Prototype**
+https://invis.io/SPR8IU15G3W
