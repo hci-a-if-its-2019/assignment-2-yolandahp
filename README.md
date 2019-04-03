@@ -80,5 +80,8 @@ These sketches are made by designer based on what users think or what users felt
 ![Scan/Photo of Sketches](img/freehand.jpg)
 https://projects.invisionapp.com/freehand/document/JXemUtHkD
 
-**Prototype**
+**Low Fidelity Prototype**
 https://invis.io/SPR8IU15G3W
+
+**High Fidelity Prototype**
+https://invis.io/CPRD11L3YN8#/356065965_Test
